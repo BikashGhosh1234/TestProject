@@ -24,6 +24,9 @@ namespace MyMobileCenterTestApp
 		{
 			// Override point for customization after application launch.
 			// If not required for your application you can safely delete this method
+
+			MobileCenter.LogLevel = LogLevel.Verbose;
+
 			MobileCenter.Start("28a19dfa-9900-4394-8106-16adad24c904", typeof(Analytics), typeof(Crashes));
 			
 			return true;
