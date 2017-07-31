@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{7EF33D7A-BE15-462E-9655-70304F5208CB}|Default" GitUserInfo="UsingGIT">
   <MonoDevelop.Ide.Workbench ActiveDocument="MyMobileCenterTestApp Status">
     <Files>
-      <File FileName="AppDelegate.cs" Line="27" Column="4" />
+      <File FileName="AppDelegate.cs" Line="33" Column="4" />
       <File FileName="ViewController.cs" Line="23" Column="42" />
       <File FileName="MyMobileCenterTestApp Status" />
     </Files>
