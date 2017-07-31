@@ -1,16 +1,16 @@
 ﻿<Properties StartupConfiguration="{7EF33D7A-BE15-462E-9655-70304F5208CB}|Default" GitUserInfo="UsingGIT">
   <MonoDevelop.Ide.Workbench ActiveDocument="MyMobileCenterTestApp Status">
     <Files>
-      <File FileName="AppDelegate.cs" Line="18" Column="4" />
-      <File FileName="ViewController.cs" Line="26" Column="41" />
+      <File FileName="AppDelegate.cs" Line="27" Column="4" />
+      <File FileName="ViewController.cs" Line="23" Column="42" />
       <File FileName="MyMobileCenterTestApp Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.MyMobileCenterTestApp PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.60DEEC7A-B75A-4E14-8805-4404822E0E34" />
+  <MonoDevelop.Ide.ItemProperties.MyMobileCenterTestApp PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
   <MultiItemStartupConfigurations />
 </Properties>

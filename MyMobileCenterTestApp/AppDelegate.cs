@@ -27,8 +27,9 @@ namespace MyMobileCenterTestApp
 
 			MobileCenter.LogLevel = LogLevel.Verbose;
 
-			MobileCenter.Start("28a19dfa-9900-4394-8106-16adad24c904", typeof(Analytics), typeof(Crashes));
-			
+			//MobileCenter.Start("28a19dfa-9900-4394-8106-16adad24c904", typeof(Analytics), typeof(Crashes));
+			MobileCenter.Start("bee7be27-8157-47ac-9852-c79cc1fc8e4b", typeof(Analytics), typeof(Crashes));
+
 			return true;
 		}
 
