@@ -19,10 +19,14 @@ namespace MyMobileCenterTestApp
 			//bool isEnabled = await Analytics.IsEnabledAsync();
 			//if(isEnabled)
 			Analytics.TrackEvent("First Screen Loaded", new Dictionary<string, string> {
-				{ "Category", "AppLunch" },
+				{ "Category", "AppLaunch" },
 				{ "Event", "Custome Analytics Event"}
 			});
 
+			BtnCrash.TouchUpInside+=(sender, e) => {
+				var i=0;
+				var div=10/i;
+			};
 			// Perform any additional setup after loading the view, typically from a nib.
 		}
 
